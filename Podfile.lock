@@ -1,0 +1,75 @@
+PODS:
+  - Alamofire (4.8.2)
+  - BMPlayer (1.2.1):
+    - BMPlayer/Full (= 1.2.1)
+  - BMPlayer/Core (1.2.1)
+  - BMPlayer/Full (1.2.1):
+    - BMPlayer/Core
+    - NVActivityIndicatorView (~> 4.6.1)
+    - SnapKit (~> 4.2.0)
+  - HandyJSON (5.0.0)
+  - IQKeyboardManagerSwift (6.0.4)
+  - Kingfisher (4.10.1)
+  - MJExtension (3.0.17)
+  - MJRefresh (3.2.0)
+  - MonkeyKing (1.15.0)
+  - NVActivityIndicatorView (4.6.1):
+    - NVActivityIndicatorView/Presenter (= 4.6.1)
+  - NVActivityIndicatorView/Presenter (4.6.1)
+  - SnapKit (4.2.0)
+  - SVProgressHUD (2.2.5)
+  - SwiftyJSON (5.0.0)
+  - Toast (4.0.0)
+  - WMPageController (2.5.2)
+
+DEPENDENCIES:
+  - Alamofire
+  - BMPlayer
+  - HandyJSON
+  - IQKeyboardManagerSwift (= 6.0.4)
+  - Kingfisher
+  - MJExtension
+  - MJRefresh
+  - MonkeyKing
+  - SnapKit
+  - SVProgressHUD
+  - SwiftyJSON
+  - Toast
+  - WMPageController
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Alamofire
+    - BMPlayer
+    - HandyJSON
+    - IQKeyboardManagerSwift
+    - Kingfisher
+    - MJExtension
+    - MJRefresh
+    - MonkeyKing
+    - NVActivityIndicatorView
+    - SnapKit
+    - SVProgressHUD
+    - SwiftyJSON
+    - Toast
+    - WMPageController
+
+SPEC CHECKSUMS:
+  Alamofire: ae5c501addb7afdbb13687d7f2f722c78734c2d3
+  BMPlayer: ea12f9d82e37f968dea2078b5e58e356ee4439d8
+  HandyJSON: 992f2d661716d6a91de82d0056927bc7813b5770
+  IQKeyboardManagerSwift: 36dbe324b4f9793f5f41ba5227f3e7c76dfefd50
+  Kingfisher: c148cd7b47ebde9989f6bc7c27dcaa79d81279a0
+  MJExtension: 74ec83124a68891619fb7ba9c5c811bbf1691076
+  MJRefresh: ed450d6eb9d3346a2cb033ab7eb6de090aeef437
+  MonkeyKing: 2bec76a578c8bd089703e70e20eb44e265bd2e67
+  NVActivityIndicatorView: 4ca19fccc84595a78957336a086d00a49be6ce61
+  SnapKit: fe8a619752f3f27075cc9a90244d75c6c3f27e2a
+  SVProgressHUD: 1428aafac632c1f86f62aa4243ec12008d7a51d6
+  SwiftyJSON: 36413e04c44ee145039d332b4f4e2d3e8d6c4db7
+  Toast: 91b396c56ee72a5790816f40d3a94dd357abc196
+  WMPageController: 0c7624d2b48e4f1ab92371688cf6744ed701575d
+
+PODFILE CHECKSUM: 55847865241b64eb57ba9ef1f609a6552e51e8f6
+
+COCOAPODS: 1.5.3
